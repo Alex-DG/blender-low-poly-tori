@@ -2,4 +2,4 @@
 
 Blender v2.93.4
 
-![tori](https://user-images.githubusercontent.com/4311684/170842926-78a1606e-ee01-4119-b2fc-3ec09ecbc2c4.png)
+![low_poly_tori](https://user-images.githubusercontent.com/4311684/170842946-2347aea8-12de-44e9-8cf4-c8f419506963.png)
